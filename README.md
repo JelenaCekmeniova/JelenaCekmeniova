@@ -1,8 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!&fontSize=90) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hi%20there!-nl-I%20am%20Jelena.&fontSize=50) 
 
-## I am Jelena.        
+       
 ## ✨Thank You for visiting my profile today!!!✨
-
 
 
 
