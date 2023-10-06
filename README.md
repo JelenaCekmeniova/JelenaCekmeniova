@@ -1,6 +1,6 @@
-## Hi there 👋
-# I am <font color='red'>Jelena</font>.
-# ✨<font color='red'>Thank You</font> for visiting my profile today!!!✨ ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+##               Hi there 👋
+#               I am Jelena.
+# ✨Thank You for visiting my profile today!!!✨
 <!--
 **JelenaCekmeniova/JelenaCekmeniova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
