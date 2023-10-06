@@ -1,14 +1,17 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=400&section=header&text=Hi%20there!-nl-I%20am%20Jelena.&fontSize=50) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Hi%20there!-nl-&desc=I%20am%20Jelena.%20Thank%20You%20for%20visiting%20my%20profile%20today!!!&fontSize=80&fontColor=195e83) 
+
+
 
        
-## ✨Thank You for visiting my profile today!!!✨
 
 
 
 
 
 
-<!--    
+
+<!--  ## ✨Thank You for visiting my profile today!!!✨ 
+![Jelena's GitHub stats](https://github-readme-stats.vercel.app/api?username=JelenaCekmeniova&theme=transparent&show_icons=true) 
 
 #          Hi there 👋       
 # 
