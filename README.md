@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Hi%20there!-nl-&desc=I%20am%20Jelena.%20Thank%20You%20for%20visiting%20my%20profile%20today!!!&fontSize=80&fontColor=195e83) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Hi%20there!-nl-&desc=I%20am%20Jelena.%20Thank%20You%20for%20visiting%20my%20profile%20today!!!&descSize=30&descAlignY=50&fontSize=80&fontColor=195e83&animation=fadeIn)
 
 
 
