@@ -1,6 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Hi%20there!-nl-&desc=I%20am%20Jelena.%20Thank%20You%20for%20visiting%20my%20profile%20today!!!&descSize=30&descAlignY=50&fontSize=80&fontColor=195e83&animation=fadeIn)
-
-
+<p>
+   <a href="https://www.linkedin.com/in/jelena-cekmeniova-a23331aa/" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+   </a> &nbsp; 
+</p>
 
        
 
@@ -10,7 +13,14 @@
 
 
 
-<!--  ## ✨Thank You for visiting my profile today!!!✨ 
+<!--  <a href="www.linkedin.com/in/jelena-cekmeniova-a23331aa/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
+
+
+
+
+## ✨Thank You for visiting my profile today!!!✨ 
 ![Jelena's GitHub stats](https://github-readme-stats.vercel.app/api?username=JelenaCekmeniova&theme=transparent&show_icons=true) 
 
 #          Hi there 👋       
