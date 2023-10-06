@@ -1,7 +1,18 @@
-##               Hi there 👋
-#               I am Jelena.
-# ✨Thank You for visiting my profile today!!!✨
-<!--
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there!&fontSize=90) 
+
+## I am Jelena.        
+## ✨Thank You for visiting my profile today!!!✨
+
+
+
+
+
+
+
+<!--    
+
+#          Hi there 👋       
+# 
 **JelenaCekmeniova/JelenaCekmeniova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
