@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&section=header&text=Hi%20there!-nl-&desc=I%20am%20Jelena.%20Thank%20You%20for%20visiting%20my%20profile%20today!!!&descSize=30&descAlignY=50&fontSize=80&fontColor=195e83&animation=fadeIn)
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Area%20is%20still%20under%20construction,%20though,&fontAlign=40&fontSize=30&desc=Let's%20Connect:&descAlign=17&descAlignY=80&theme=cobalt)
-<p>
+<p align="left">
    <a href="https://www.linkedin.com/in/jelena-cekmeniova-a23331aa/" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
    </a> &nbsp; 
