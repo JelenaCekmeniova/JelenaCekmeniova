@@ -15,7 +15,9 @@
 
 
 
-<!--  <a href="www.linkedin.com/in/jelena-cekmeniova-a23331aa/">
+<!--  ![image](https://github.com/JelenaCekmeniova/JelenaCekmeniova/assets/65826597/2d2aeddb-be08-47ee-96c7-c374becda0b4)
+
+<a href="www.linkedin.com/in/jelena-cekmeniova-a23331aa/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
