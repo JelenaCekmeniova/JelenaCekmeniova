@@ -9,6 +9,9 @@
   <a href="https://public.tableau.com/app/profile/jelena.cekmeniova/vizzes" rel="nofollow noreferrer">
     <img height="32" width="32" src="https://cdn.simpleicons.org/tableau" />
    </a> &nbsp;
+  <a href="https://www.datacamp.com/portfolio/jolkin2010" rel="nofollow noreferrer">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/datacamp" />
+   </a> &nbsp;
 
 
 
