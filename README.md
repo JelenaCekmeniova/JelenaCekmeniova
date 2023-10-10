@@ -12,8 +12,19 @@
   <a href="https://www.datacamp.com/portfolio/jolkin2010" rel="nofollow noreferrer">
     <img height="32" width="32" src="https://cdn.simpleicons.org/datacamp" />
    </a> &nbsp;
+</p>
 
+![reversal](https://capsule-render.vercel.app/api?type=rect&height=60&text=Learned%20and%20experienced%20tools:%20&fontAlign=32&fontSize=30&theme=cobalt)
 
+<p align="left">
+ <img height="50" width="50" src="https://cdn.simpleicons.org/mysql" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/r" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/python" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/tableau" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/powerbi" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/microsoftexcel" />
+<img height="50" width="50" src="https://cdn.simpleicons.org/microsoftazure" />
+</p>
 
 
 
