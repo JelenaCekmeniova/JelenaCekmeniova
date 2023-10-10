@@ -12,9 +12,7 @@
   <a href="https://www.datacamp.com/portfolio/jolkin2010" rel="nofollow noreferrer">
     <img height="32" width="32" src="https://cdn.simpleicons.org/datacamp" />
    </a> &nbsp;
-<a href="mailto:jolkin2010@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
- <a href="mailto:jolkin2010@gmail.com?">
+  <a href="mailto:jolkin2010@gmail.com?">
     <img height="32" width="32" src="https://cdn.simpleicons.org/gmail" />
    </a> &nbsp;
 </p>
@@ -33,30 +31,8 @@
 
 
 
-
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-
-  
-  
-
-
-
-
-
-
-
-
-<!--   <img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />    
+<!--   <a href="mailto:jolkin2010@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img height="32" width="32" src="https://cdn.simpleicons.org/simpleicons" />    
 
 
 ![image](https://github.com/JelenaCekmeniova/JelenaCekmeniova/assets/65826597/2d2aeddb-be08-47ee-96c7-c374becda0b4)
