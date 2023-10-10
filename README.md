@@ -12,6 +12,11 @@
   <a href="https://www.datacamp.com/portfolio/jolkin2010" rel="nofollow noreferrer">
     <img height="32" width="32" src="https://cdn.simpleicons.org/datacamp" />
    </a> &nbsp;
+<a href="mailto:jolkin2010@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+ <a href="mailto:jolkin2010@gmail.com?">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/gmail" />
+   </a> &nbsp;
 </p>
 
 ![reversal](https://capsule-render.vercel.app/api?type=rect&height=60&text=Learned%20and%20experienced%20tools:%20&fontAlign=32&fontSize=30&theme=cobalt)
