@@ -6,7 +6,9 @@
    <a href="https://www.linkedin.com/in/jelena-cekmeniova-a23331aa/" rel="nofollow noreferrer">
     <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin" />
    </a> &nbsp;
-
+  <a href="https://public.tableau.com/app/profile/jelena.cekmeniova/vizzes" rel="nofollow noreferrer">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/tableau" />
+   </a> &nbsp;
 
 
 
