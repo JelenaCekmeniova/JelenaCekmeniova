@@ -29,6 +29,7 @@
 <img height="50" width="50" src="https://cdn.simpleicons.org/microsoftazure" />
 </p>
 
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FJelenaCekmeniova"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FJelenaCekmeniova&labelColor=%23697689&countColor=%23f47373&style=flat-square&labelStyle=upper" /></a>
 
 
 <!--   <a href="mailto:jolkin2010@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
